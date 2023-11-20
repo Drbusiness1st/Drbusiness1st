@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Drbusiness1st
 - 👀 I’m interested in contact sports, coding and engineering.
-- 🌱 I’m currently learning rust and science.
+- I know html and css
+- 🌱 I’m currently learning python.
 
 <!---
 Drbusiness1st/Drbusiness1st is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
